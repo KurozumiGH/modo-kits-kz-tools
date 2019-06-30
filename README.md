@@ -25,3 +25,6 @@ MODOのSystem>Form Editorを開くと``Kz_Tools``が追加されているので�
 - Xfrog: XfrogPlants for MODOのマテリアルをV-Ray用に変換します
 #### Misc
 - Reset SubDiv: 選択されているMeshのSubdivision設定を一括変更します
+
+### 使い方の動画など
+- [Xfrog機能の簡単な使い方の動画（動画は開発中の物なので少しメニューが異なっています）](https://www.youtube.com/watch?v=QWesdP6Ek6Q&feature=youtu.be)
